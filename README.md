@@ -2,6 +2,8 @@
 
 See https://youtrack.jetbrains.com/issue/IDEA-316836
 
+<a href="https://youtrack.jetbrains.com/articles/IDEA-A-2100661478/IntelliJ-IDEA-2023.1-231.8109.175-build-Release-Notes">IntelliJ IDEA 2023.1 (231.8109.175 build)</a>
+
 ## What steps will reproduce the issue?
 1. The class that assembles the bean is not in the same package as the startup class.
 2. The startup class @SpringBootApplication sets the scanBasePackages property.
